@@ -1,7 +1,7 @@
 {
   "name": "interviewer-agent-by-nova",
   "version": "1.0.0",
-  "description": "I do everything related to interviews and structured Q&A",
+  "description": "Generate interview questions for a role and draft a resume or CV from a candidate's details.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co"
